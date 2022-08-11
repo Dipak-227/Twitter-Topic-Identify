@@ -1,0 +1,34 @@
+body {
+    background-image: url("twitter5.jpg");
+  
+}
+.navbar {
+    height: 5rem;
+}
+
+li {
+    margin: 1.5rem;
+}
+
+li:hover {
+    border-bottom: thick solid #121212;
+    color: #121212;
+}
+
+li:active {
+    border-bottom: thick solid #121212;
+    color: #121212;
+}
+
+span {
+    margin: 3rem;
+}
+
+.home {
+    margin-right: 0;
+}
+
+#uicon {
+     margin: 65px 25px 75px 100px;
+
+}

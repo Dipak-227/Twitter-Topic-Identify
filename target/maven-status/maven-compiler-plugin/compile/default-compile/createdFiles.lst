@@ -1,0 +1,8 @@
+com\mycompany\g29\dao\TweetDao.class
+com\mycompany\g29\dao\FeedbackDao.class
+com\mycompany\g29\entities\User.class
+com\mycompany\g29\entities\Feedback.class
+com\mycompany\g29\entities\Tweet.class
+com\mycompany\g29\helper\FactoryProvider.class
+com\mycompany\g29\servlet\TweetServlet.class
+com\mycompany\g29\dao\UserDao.class

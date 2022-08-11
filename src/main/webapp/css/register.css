@@ -1,0 +1,69 @@
+body {
+    background-image: url("Twitter75.jpg");
+}
+.navbar {
+    height: 5rem;
+}
+
+li {
+    margin: 1.5rem;
+}
+
+li:hover {
+    border-bottom: thick solid #121212;
+    color: #121212;
+}
+
+li:active {
+    border-bottom: thick solid #121212;
+    color: #121212;
+}
+
+span {
+    margin: 2rem;
+}
+
+.home {
+    margin-right: 0;
+}
+
+form {
+    width: 50%;
+    background: transparent;
+    margin-left: 25%;
+    margin-top: -1rem;
+    /* border: thick solid #3480fa; */
+    color: white;
+    font-weight: bold;
+    padding: 3rem;
+    border-radius: 2rem;
+}
+
+.active {
+    border-bottom: thick solid #121212;
+    color: #121212;
+}
+
+.mb-3 {
+    margin: 2rem 0;
+}
+
+.feedback {
+    margin-bottom: 1.3rem;
+}
+
+.fbtn {
+    margin-top: 0.5rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-weight: bold;
+}
+
+.rbtn {
+    margin-top: 0.5rem;
+    margin-left: 30rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-weight: bold;
+}
+
